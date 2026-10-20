@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://victoryxixi.github.io/sitemap.xml
+Sitemap: https://andyyongxiwu.github.io/sitemap.xml
